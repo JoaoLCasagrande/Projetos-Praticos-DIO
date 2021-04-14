@@ -33,7 +33,8 @@ body{
 }
 
 .instagram-celular img{
-    height: 50rem;
+    height: 38rem;
+    width: 80rem;
 }
 
 .instagram-continue{
@@ -70,6 +71,7 @@ body{
     align-items: center;
     border-radius: 50%;
     overflow: hidden;
+    margin-bottom: 4px;
 }
 
 .foto-perfil img{
